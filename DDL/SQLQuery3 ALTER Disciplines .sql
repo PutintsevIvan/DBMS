@@ -1,0 +1,4 @@
+USE PD_321
+
+ALTER TABLE Discepline
+ALTER COLUMN discipline_name   NVARCHAR(150)
